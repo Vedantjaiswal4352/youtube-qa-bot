@@ -1,0 +1,24 @@
+# LangChain Core
+langchain 
+#lanhchain-core 
+langchain-experimental
+langchain-text-splitters
+langchain-community
+
+# HuggingFace Integration 
+langchain-huggingface 
+transformers 
+huggingface-hub
+
+# Environment Variable Mgmnt
+python-dotenv
+
+# Vector Store
+faiss-cpu
+tiktoken
+
+#web
+youtube-transcript-api
+streamlit
+
+sentence-transformers
