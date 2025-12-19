@@ -1,4 +1,6 @@
-<img width="1920" height="964" alt="2" src="https://github.com/user-attachments/assets/a22c107d-273e-4a55-b074-e4f1f75653ce" /># 🎥 YouTube QA Bot
+## 🎥 YouTube QA Bot
+
+<img width="1010" height="180" alt="header" src="https://github.com/user-attachments/assets/4a8dd761-18b8-44e6-a1fc-cb553d3812e0" />
 
 A Retrieval-Augmented Generation (RAG) chatbot built with **Streamlit** and **LangChain** that answers questions from YouTube video transcripts.  
 Users simply paste a YouTube link, and the system fetches the transcript, chunks it, embeds it, stores it in FAISS, and then uses a retriever + LLM to generate contextual answers in a chat-style interface.
