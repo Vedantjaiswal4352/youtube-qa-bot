@@ -12,3 +12,6 @@ model = ChatHuggingFace(llm = llm,temperature=0.2)
 def give_answer(prompt_given):
   result = model.invoke(prompt_given)
   return result.content
+
+que = "What is the capital on INdia? "
+print(give_answer(que))
